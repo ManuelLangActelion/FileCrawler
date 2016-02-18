@@ -15,8 +15,8 @@ $RECYCLE.BIN/
 *.msp
 *.bin
 *.exe
-/bin
-/obj
+*bin/Debug*
+*obj/Debug*
 */obj
 */bin
 *.pdb
@@ -25,7 +25,7 @@ $RECYCLE.BIN/
 /Backup
 *.csproj.user
 *.suo
-*/packages
+*packages*
 
 # Windows shortcuts
 *.lnk
