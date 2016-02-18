@@ -1,0 +1,3 @@
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\CodeProject.Form1.resources
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\CodeProject.Properties.Resources.resources
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\FileIndexer.csproj.GenerateResource.Cache

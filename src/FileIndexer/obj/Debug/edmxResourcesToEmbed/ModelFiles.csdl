@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbFileModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="FilesMetadata">
+    <Key>
+      <PropertyRef Name="Path" />
+    </Key>
+    <Property Name="Path" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Size" Type="Int64" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="true" />
+    <Property Name="DateLastAccessed" Type="DateTime" Nullable="true" />
+    <Property Name="DateLastModified" Type="DateTime" Nullable="true" />
+    <Property Name="Md5Hash" Type="String" Nullable="true" />
+    <Property Name="FileName" Type="String" Nullable="false" />
+    <Property Name="FileExtension" Type="String" Nullable="false" />
+    <Property Name="Depth" Type="Int32" Nullable="false" />
+    <Property Name="Attributes" Type="String" Nullable="true" />
+    <Property Name="PathLength" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="dbFileEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FilesMetadatas" EntityType="Self.FilesMetadata" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,5 @@
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\bin\Debug\DirectoryEnumTestApplication.exe.config
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\DirectoryEnumTestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\CodeProject.Form1.resources
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\CodeProject.Properties.Resources.resources
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\obj\Debug\DirectoryEnumTestApplication.csproj.GenerateResource.Cache
