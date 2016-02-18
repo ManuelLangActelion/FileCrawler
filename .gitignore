@@ -15,17 +15,15 @@ $RECYCLE.BIN/
 *.msp
 *.bin
 *.exe
-*bin/Debug*
-*obj/Debug*
-*/obj
-*/bin
+bin
+obj
 *.pdb
 *.ldf
 *.mdf
-/Backup
+Backup
 *.csproj.user
 *.suo
-*packages*
+packages
 
 # Windows shortcuts
 *.lnk
