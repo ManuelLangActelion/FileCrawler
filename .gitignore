@@ -17,6 +17,8 @@ $RECYCLE.BIN/
 *.exe
 /bin
 /obj
+*/obj
+*/bin
 *.pdb
 *.ldf
 *.mdf

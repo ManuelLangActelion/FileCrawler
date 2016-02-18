@@ -1,0 +1,1 @@
+C:\Users\Manu\Documents\GitHub\FileCrawler\src\CryptographyHelper\obj\Debug\CryptographyHelper.csprojResolveAssemblyReference.cache
