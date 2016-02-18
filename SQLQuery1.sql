@@ -1,0 +1,1 @@
+﻿Select distinct FileExtension from FilesMetadatas
