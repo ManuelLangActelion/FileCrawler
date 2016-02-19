@@ -198,7 +198,7 @@
       <Project>{7ed673b9-afab-4583-ac06-e8750905fcf6}</Project>
       <Name>FileCrawler</Name>
     </ProjectReference>
-    <ProjectReference Include="CryptographyHelper\CryptographyHelper.csproj">
+    <ProjectReference Include="..\CryptographyHelper\CryptographyHelper.csproj">
       <Project>{468095f2-04e8-4747-bcd8-da176adb0e26}</Project>
       <Name>CryptographyHelper</Name>
     </ProjectReference>

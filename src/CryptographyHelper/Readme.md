@@ -1,0 +1,1 @@
+Cryptographic features to compute file hash (to be able to compare files based on their content)
